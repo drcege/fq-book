@@ -7,7 +7,7 @@
 根据[维基百科相关词条](https://zh.wikipedia.org/wiki/%E6%B7%B1%E7%BD%91)的解释:  
 
 
-| 深网（英语：Deep Web、Dark Web，又称：不可见网、隐藏网）是指互联网上那些不能被标准搜索引擎索引的非表面网络内容。 |
+| 深网（英语：Deep Web、Dark Web，又称：不可见网、隐藏网）<br>是指互联网上那些不能被标准搜索引擎索引的非表面网络内容。 |
 | --- |
 
 
@@ -15,7 +15,7 @@
 
 ### 什么是暗网
 
-暗网是深网的子集，根据维基上的解释：`暗网（英语：Darknet或Dark Web）是指只使用非常规协议和端口以及可信节点进行连接的私有网络`,暗网是不能通过”常规方式”访问的——当然你用TOR浏览器就不算常规方式了。而根据wiki还有别的方式比如`Freenet`、`RetroShare`、`GNUnet`、`OneSwarm`、`Tribler`等等就不一一列举了。对普通大众来说最简单的方法还是`Tor浏览器`  
+暗网是深网的子集，根据维基上的解释：暗网（英语：Darknet或Dark Web）是指只使用非常规协议和端口以及可信节点进行连接的私有网络,暗网是不能通过”常规方式”访问的——当然你用TOR浏览器就不算常规方式了。而根据wiki还有别的方式比如Freenet、RetroShare、GNUnet、OneSwarm、Tribler等等就不一一列举了。对普通大众来说最简单的方法还是Tor浏览器  
 暗网的重点在于”暗”，属于网络上的黑市，这里面有很多暴力，色情，黑产等相关的东西，比如军火、假护照、信用卡、用户信息、0day等等。网络上大部分阴谋论相关的文章也都是从暗网这些阴暗点做切入点进行发散创作
 
 ### 谣言
@@ -52,7 +52,7 @@
 
 ### 总结
 
-首先是[The Uncensored Hidden Wiki](http://uhwiki36pbooodfj.onion/wiki/index.php/Main_Page)\(需要TOR。另外这种导航页其实有很多，各位可以自行挖掘
+首先是需要TOR打开[The Uncensored Hidden Wiki](http://uhwiki36pbooodfj.onion/wiki/index.php/Main_Page)，另外这种导航页其实有很多，各位可以自行挖掘
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/images/hiddenwiki.jpg)
 
