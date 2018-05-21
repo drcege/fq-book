@@ -67,6 +67,7 @@
 
 ## 细节补充
 * [ss#1130](append/ss1130.md)
+* [零网简要介绍](append/4zeronet.md)
 * [难封锁的草榴](append/caoliu.md)
 * [安卓手机权限](append/android.md)
 * [封锁IP的理解](append/block-ip.md)
@@ -74,6 +75,7 @@
 * [获取工具方法](append/get-method.md)
 * [对VPN与代理的整合](append/vpn-proxy.md)
 * [不写VPS搭建的原因](append/none-vps.md)
+* [[转]深网和暗网的区别及基础扫盲](append/darkweb.md)
 
 ## 文章总结
 * [总结](summarize.md)

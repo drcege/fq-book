@@ -1,6 +1,6 @@
 # NAT类型科普及一些简单提升方法
 
-> 转载自：[http://www.right.com.cn/forum/thread-199299-1-1.html](http://www.right.com.cn/forum/thread-199299-1-1.html)
+> 转载自：http://www.right.com.cn/forum/thread-199299-1-1.html
 
 首先可以在百度百科了解到什么是“[**NAT**](http://baike.baidu.com/item/nat)”，传送门→“[**NAT科普**”](http://baike.baidu.com/item/nat)  
 然后呢，看了那么多我们大概就知道了一些关于NAT的基本知识，比如说[**定义**](http://baike.baidu.com/item/nat)、[**功能**](http://baike.baidu.com/item/nat#1)、[**实现方式**](http://baike.baidu.com/item/nat#2)及[**类型**](http://baike.baidu.com/item/nat#7)

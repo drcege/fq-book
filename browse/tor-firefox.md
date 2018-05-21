@@ -1,6 +1,10 @@
 # Tor（Firefox）
 
-与[tor](https://www.torproject.org/)性质差不多的软件还有[I2P](https://geti2p.net/zh/)，更具隐匿性更抗封杀，有兴趣的可以试试看，这里就不做说明与演示了。
+> **[info] FOR INFO**
+
+> **[I2P](https://geti2p.net/zh/)更具隐匿性更抗封杀，有兴趣的可试试，此再不做说明演示**
+
+> **tor、I2P都是具有访问暗网性质的软件，翻墙仅做为一个附带功能**
 
 azure已由政府背景的企业所代理，不太建议选择
 

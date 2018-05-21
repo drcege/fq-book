@@ -1,6 +1,6 @@
 # \[转\]VMware的3种网络模式
 
-> 转载自：[http://net.zol.com.cn/115/1158058.html](http://net.zol.com.cn/115/1158058.html)，稍做优化
+> 转载自：http://net.zol.com.cn/115/1158058.html
 
 ### 桥接模式
 
